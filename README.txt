@@ -14,4 +14,4 @@ Detected and documented quality and tidiness issues by inspecting programmatical
 3. Data Cleaning:
 Clean each of the documented quality and tidiness issues. This cleaning is done in the wrangle_act.ipynb file. The resulting data frame is a high quality pandas data frame.
 
-Finally, store the clean data frame as twitter_archive_master.csv. wrangle_act.ipynb will include very basic analysis and visualization (as this project focuses mostly on wrangling). Moreover, wrangle_report.html briefly describes the wrangling efforts, while act_report.html communicates the insights and displays the visualizations produced by the wrangled data.
+Finally, store the clean data frame as twitter_archive_master.csv. wrangle_act.ipynb will include very basic analysis and visualization (as this project focuses mostly on wrangling). Moreover, wrangle_report.pdf briefly describes the wrangling efforts, while act_report.pdf communicates the insights and displays the visualizations produced by the wrangled data.
